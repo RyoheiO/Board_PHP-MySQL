@@ -7,9 +7,9 @@
 <body>
     <?php
         #user name
-        $db_user = "root";
+        $db_user = "*****";
         #password
-        $db_pass = "hydrogen1"; 
+        $db_pass = "*****"; 
         #host
         $db_host = "localhost";
         #database
