@@ -28,5 +28,8 @@ Click the edit button. <br>
 table : id*, name, title, year <br>
 *primary key
 
+# Reference
+永田順伸，PHP+MySQLマスターブック，株式会社マイナビ，
+
 # Remark
 This is my first work using MySQL. 
