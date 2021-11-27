@@ -1,4 +1,4 @@
-# board_PHP-MySQL
+# Board_PHP-MySQL
 
 ## PHP
 
